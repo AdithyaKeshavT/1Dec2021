@@ -1,0 +1,1 @@
+let yourArray = ['Adi',1,true,5,8]; // Change this line
